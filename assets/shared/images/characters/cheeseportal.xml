@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cheeseportal.png"><SubTexture name="cheeseportal idle0000" x="0" y="0" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0000" x="350" y="0" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0001" x="0" y="350" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0002" x="350" y="350" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0003" x="700" y="0" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0004" x="700" y="350" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0005" x="0" y="700" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0006" x="350" y="700" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0007" x="700" y="700" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0008" x="1050" y="0" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0009" x="1050" y="350" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0010" x="1050" y="700" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0011" x="0" y="1050" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0012" x="350" y="1050" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalfall0013" x="700" y="1050" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheeseportal portalidle0000" x="700" y="1050" width="350" height="350" frameX="0" frameY="0" frameWidth="350" frameHeight="350" />
+</TextureAtlas>

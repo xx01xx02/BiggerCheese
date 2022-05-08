@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cheese.png">
+<SubTexture name="cheese idle0000" x="270" y="583" width="269" height="263" frameX="-42" frameY="-70" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese idle0001" x="0" y="583" width="270" height="264" frameX="-43" frameY="-69" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese idle0002" x="704" y="0" width="267" height="265" frameX="-47" frameY="-68" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese idle0003" x="0" y="315" width="267" height="268" frameX="-50" frameY="-65" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese idle0004" x="438" y="0" width="266" height="271" frameX="-52" frameY="-62" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese down0000" x="971" y="472" width="197" height="226" frameX="-52" frameY="-107" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese down0001" x="971" y="244" width="194" height="228" frameX="-52" frameY="-105" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese left0000" x="267" y="315" width="199" height="267" frameX="-36" frameY="-75" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese left0001" x="466" y="315" width="197" height="266" frameX="-41" frameY="-76" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese right0000" x="539" y="583" width="277" height="249" frameX="-64" frameY="-88" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese right0001" x="971" y="0" width="274" height="244" frameX="-64" frameY="-93" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese up0000" x="218" y="0" width="220" height="308" frameX="-19" frameY="-34" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese up0001" x="0" y="0" width="218" height="315" frameX="-19" frameY="-28" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methget0000" x="704" y="265" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methget0001" x="0" y="847" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methget0002" x="203" y="847" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methget0003" x="406" y="847" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methidle0000" x="609" y="847" width="216" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methidle0001" x="825" y="847" width="211" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methidle0002" x="1245" y="0" width="220" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methaway0000" x="406" y="847" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methaway0001" x="203" y="847" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methaway0002" x="0" y="847" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+<SubTexture name="cheese methaway0003" x="704" y="265" width="203" height="203" frameX="-53" frameY="-136" frameWidth="350" frameHeight="350" />
+</TextureAtlas>

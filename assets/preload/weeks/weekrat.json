@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"co-cane",
+			"cheese",
+			[
+				255,
+				73,
+				73
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "cheese",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cracked cocain",
+	"weekName": "ratsratsratsrats",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

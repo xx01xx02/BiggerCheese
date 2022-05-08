@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cheeseportal idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "portalfall",
+			"indices": [],
+			"name": "cheeseportal portalfall"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "cheeseportal portalidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cheeseportal",
+	"position": [
+		45,
+		465
+	],
+	"healthicon": "cheese",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		15,
+		0
+	],
+	"camera_position": [
+		80,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
